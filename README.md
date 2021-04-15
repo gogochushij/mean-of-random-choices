@@ -1,4 +1,4 @@
-# mean-random-choices
+# mean-of-random-choices
 
 # disclaimer
 
